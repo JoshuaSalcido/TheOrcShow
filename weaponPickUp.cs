@@ -1,7 +1,7 @@
 ﻿ using UnityEngine;
 using System.Collections;
 
-public class weaponPickUpTest : MonoBehaviour {
+public class weaponPickUp : MonoBehaviour {
 
 	Vector3 dropPosition; 
 	 GameObject currentWeapon; 
